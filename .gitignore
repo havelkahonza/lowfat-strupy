@@ -1,0 +1,8 @@
+.idea
+/target
+**/*.rs.bk
+tags
+/config/99-local-dev.yaml
+proto.rs
+proto_urlinfo.rs
+/data
